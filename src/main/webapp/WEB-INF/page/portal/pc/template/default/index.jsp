@@ -24,10 +24,10 @@
 				<div class="grid-1-1-1 spacing-20">
 					<div>
 						<div style="width: 420px;height: 244px;position: relative;margin-bottom: 20px;">
-							<a href="http://www.javaex.cn/" target="_blank"><img src="http://173.javaex.cn/Fl9vo0PYYkFWc95sJm9UyfSxumNz" width="100%" height="100%"></a>
+							<a href="https://github.com/Jingjiasheng/web_class" target="_blank"><img src="http://173.javaex.cn/Fl9vo0PYYkFWc95sJm9UyfSxumNz" width="100%" height="100%"></a>
 							
 							<div class="t">
-								<p class="t1"><span><a href="http://www.javaex.cn/" target="_blank">java程序员写的前端框架</a></span></p>
+								<p class="t1"><span><a href="https://github.com/Jingjiasheng/web_class" target="_blank">java程序员写的前端框架</a></span></p>
 							</div>
 						</div>
 						<ul class="equal-2" id="juhe2" style="width: 440px;margin-right: -20px;">
@@ -103,7 +103,7 @@
 					</div>
 					<div>
 						<div style="width: 420px;height: 112px;margin-bottom: 20px;">
-							<a href="http://www.javaex.cn/" target="_blank"><img src="http://173.javaex.cn/FuHDdQCBVHpQjncxdm76yzO2q6fj" width="100%" height="100%"></a>
+							<a href="https://github.com/Jingjiasheng/web_class" target="_blank"><img src="http://173.javaex.cn/FuHDdQCBVHpQjncxdm76yzO2q6fj" width="100%" height="100%"></a>
 						</div>
 						<div style="width: 420px;height: 244px;position: relative">
 							<a href="${pageContext.request.contextPath}/portal/play.action?videoId=3495" target="_blank"><img src="http://173.javaex.cn/FgM-UfvaZEVK4mnlPIisI0wPASW6" width="100%" height="100%"></a>

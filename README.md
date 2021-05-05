@@ -13,12 +13,12 @@
 6. tomcat：tomcat8
 
 #### 特别说明
-1. 演示地址：http://173cms.javaex.cn/
+1. 演示地址：https://github.com/Jingjiasheng/web_class
     账号：admin
     密码：111111
     管理员登录后可进入后台
 2. 视频教程：https://www.bilibili.com/video/av25911492/
-3. javaex前端框架github:：http://www.javaex.cn/
+3. javaex前端框架github:：https://github.com/Jingjiasheng/web_class
 4. javaex交流群：587243028
 5. 其他系统请移步javaexgithub:查看
 

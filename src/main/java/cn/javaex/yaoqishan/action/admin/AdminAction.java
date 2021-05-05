@@ -116,7 +116,7 @@ public class AdminAction {
 		sb.append("</div>");
 		sb.append("<div class='unit'>");
 		sb.append("	<div class='left'><p class='subtitle'>github:：</p></div>");
-		sb.append("	<div class='right'><a href='http://www.javaex.cn/' target='_blank'>http://www.javaex.cn/</a></div>");
+		sb.append("	<div class='right'><a href='https://github.com/Jingjiasheng/web_class' target='_blank'>https://github.com/Jingjiasheng/web_class</a></div>");
 		sb.append("	<span class='clearfix'></span>");
 		sb.append("</div>");
 		sb.append("<div class='unit'>");
