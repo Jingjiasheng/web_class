@@ -52,7 +52,7 @@
 
 						<ul class="equal-3" style="margin-top: 10px;">
 							<li>地区：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=地区&value=${mediaInfo.dongman_diqu}" target="_blank">${mediaInfo.dongman_diqu}</a></li>
-							<li>年份：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=年份&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
+							<li>上传时间：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=上传时间&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
 							<li>状态：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=状态&value=${mediaInfo.zhuangtai}" target="_blank">${mediaInfo.zhuangtai}</a></li>
 							<li>风格：
 								<c:forEach items="${mediaInfo.dongman_fengge}" var="value" varStatus="status">

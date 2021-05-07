@@ -31,7 +31,7 @@
 	.focus-bda {height: 60px;line-height: 60px;font-size:18px;color:#fff;padding-left:20px;position: absolute;bottom: 0;text-shadow: 0 0 1px #000;font-family: helvetica,"微软雅黑","microsoft yahei",verdana,lucida,arial,sans-serif,"黑体";}
 
 	.tab-content div{overflow: visible;}
-	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(http://doc.javaex.cn/demo/images/png24.png) repeat-x;}
+	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg) repeat-x;}
 	.javaextp1{font-size: 22px;color: #fff;display: block no-shadow;overflow: hidden;height: 24px;line-height: 24px;padding-left: 15px;}
 	.javaextp2{height: 20px;line-height: 20px;font-size: 16px;font-weight: 100;position: absolute;bottom: 12px;left: 15px;z-index: 2;overflow: hidden;width: 380px;color: #ddd;}
 	.tit-box{height:140px;margin-top: 20px;}

@@ -51,7 +51,7 @@
 
 						<ul class="equal-3" style="margin-top: 10px;">
 							<li>地区：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=3&name=地区&value=${mediaInfo.tv_diqu}" target="_blank">${mediaInfo.tv_diqu}</a></li>
-							<li>年份：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=3&name=年份&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
+							<li>上传时间：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=3&name=上传时间&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
 							<li>状态：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=3&name=状态&value=${mediaInfo.zhuangtai}" target="_blank">${mediaInfo.zhuangtai}</a></li>
 							<li>类型：
 								<c:forEach items="${mediaInfo.tv_leixing}" var="value" varStatus="status">
@@ -68,8 +68,8 @@
 							</li>
 							<span class="clearfix"></span>
 						</ul>
-						<div style="margin-top: 10px;">导演：${mediaInfo.daoyan}</div>
-						<div style="margin-top: 10px;">主演：${mediaInfo.zhuyan}</div>
+						<div style="margin-top: 10px;">机构：${mediaInfo.daoyan}</div>
+						<div style="margin-top: 10px;">老师：${mediaInfo.zhuyan}</div>
 						<div class="jianjie" style="margin-top: 10px;">简介：${mediaInfo.jianjie}</div>
 						
 						<div class="play">

@@ -108,10 +108,10 @@
 							html += '<li>状态：'+obj.zhuangtai+'</li>';
 						}
 						if (obj.typeName=="电影" || obj.typeName=="电视剧") {
-							html += '<li>导演：'+obj.daoyan+'</li>';
-							html += '<li>主演：'+obj.zhuyan+'</li>';
+							html += '<li>机构：'+obj.daoyan+'</li>';
+							html += '<li>老师：'+obj.zhuyan+'</li>';
 						} else if (obj.typeName=="动漫" && !!obj.shengyou) {
-							html += '<li>声优：'+obj.shengyou+'</li>';
+							html += '<li>其他：'+obj.shengyou+'</li>';
 						}
 						html += '</ul>';
 						html += '<span class="clearfix"></span>';

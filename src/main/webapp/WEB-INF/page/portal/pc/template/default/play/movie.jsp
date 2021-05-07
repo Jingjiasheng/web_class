@@ -59,7 +59,7 @@
 								
 								<ul class="equal-3" style="margin-top:10px;">
 									<li>地区：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=4&name=地区&value=${mediaInfo.tv_diqu}" target="_blank">${mediaInfo.tv_diqu}</a></li>
-									<li>年份：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=4&name=年份&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
+									<li>上传时间：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=4&name=上传时间&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
 									<li>
 										类型：
 										<c:forEach items="${mediaInfo.movie_leixing}" var="value" varStatus="status">
@@ -76,8 +76,8 @@
 									</li>
 									<span class="clearfix"></span>
 								</ul>
-								<div style="margin-top: 10px;">导演：${mediaInfo.daoyan}</div>
-								<div style="margin-top: 10px;">主演：${mediaInfo.zhuyan}</div>
+								<div style="margin-top: 10px;">机构：${mediaInfo.daoyan}</div>
+								<div style="margin-top: 10px;">老师：${mediaInfo.zhuyan}</div>
 								<div class="jianjie" style="margin-top:10px;">
 									简介：${fn:substring(mediaInfo.jianjie, 0, 80)}
 									<a style="color:#2fb3ff;" href="profile.action?mediaId=${mediaInfo.media_id}" target="_blank"> 查看详情</a>
@@ -182,7 +182,7 @@
 						
 						javaex.comment({
 							id : "comment",
-							avatar : "http://doc.javaex.cn/javaex/javaex/pc/images/user.jpg",
+							avatar : "https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg",
 							url : "http://www.javaex.cn/?UID=",
 							commentCount : commentCount,
 							list : list,

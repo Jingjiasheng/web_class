@@ -101,7 +101,7 @@ public class AdminAction {
 		StringBuffer sb = new StringBuffer();
 		sb.append("<div class='unit'>");
 		sb.append("	<div class='left'><p class='subtitle'>程序版本：</p></div>");
-		sb.append("	<div class='right'>yaoqishan 1.0.0</div>");
+		sb.append("	<div class='right'> 1.0.0</div>");
 		sb.append("	<span class='clearfix'></span>");
 		sb.append("</div>");
 		sb.append("<div class='unit'>");
@@ -111,7 +111,7 @@ public class AdminAction {
 		sb.append("</div>");
 		sb.append("<div class='unit'>");
 		sb.append("	<div class='left'><p class='subtitle'>联系方式：</p></div>");
-		sb.append("	<div class='right'>QQ：291026192</div>");
+		sb.append("	<div class='right'>QQ：2861742025</div>");
 		sb.append("	<span class='clearfix'></span>");
 		sb.append("</div>");
 		sb.append("<div class='unit'>");
@@ -137,7 +137,7 @@ public class AdminAction {
 	public String service(ModelMap map) {
 		StringBuffer sb = new StringBuffer();
 		sb.append("<div class='unit'>");
-		sb.append("	<div class='left'><p class='subtitle'>github用户名：</p></div>");
+		sb.append("	<div class='left'><p class='subtitle'>github：</p></div>");
 		sb.append("	<div class='right'>jiashengjing</div>");
 		sb.append("	<span class='clearfix'></span>");
 		sb.append("</div>");

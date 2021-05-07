@@ -30,7 +30,7 @@
 				<!--正文内容-->
 				<div class="main">
 					<p class="tip">网易邮箱SMTP：smtp.163.com，端口25 （推荐使用）</p>
-					<p class="tip">腾讯邮箱SMTP：smtp.foxmail.com，端口25</p>
+					<p class="tip">腾讯邮箱SMTP：smtp.qq.com，端口25</p>
 					<p class="tip danger">后台测试时，可能会发送失败，原因未知！ 是否设置成功，以注册时的邮件发送为准！</p>
 					
 					<!--表格上方的操作元素，添加、删除、搜索等-->

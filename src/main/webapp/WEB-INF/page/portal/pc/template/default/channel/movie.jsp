@@ -33,7 +33,7 @@
 	.jb{line-height: 24px; background: #3EC743; position: absolute; top: 0; padding: 0 10px; color: #fff; z-index: 9;}
 	
 	.tab-content div{overflow: visible;}
-	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(http://doc.javaex.cn/demo/images/png24.png) repeat-x;}
+	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg) repeat-x;}
 	.javaextp1{font-size: 22px;color: #fff;display: block no-shadow;overflow: hidden;height: 24px;line-height: 24px;padding-left: 15px;}
 	.javaextp2{height: 20px;line-height: 20px;font-size: 16px;font-weight: 100;position: absolute;bottom: 12px;left: 15px;z-index: 2;overflow: hidden;width: 380px;color: #ddd;}
 	.tit-box{height:140px;margin-top: 20px;}

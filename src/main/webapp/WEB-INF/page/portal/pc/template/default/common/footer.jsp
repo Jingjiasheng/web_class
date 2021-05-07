@@ -18,16 +18,16 @@
 		</c:if>
 		
 	</div>
-	<p class="copyright">Copyright © 2018 沐课 All Rights Reserved</p>
+	<p class="copyright">Copyright © 2020 沐课 All Rights Reserved</p>
 </div>
 
 <!--回到顶部-->
 <div class="alien">
-	<div class="feedback">
-		<a href="https://github.com/Jingjiasheng/web_class" target="_blank"></a>
+	<div class="feedback" title="联系客服">
+		<a href="http://wpa.qq.com/msgrd?v=3&uin=2861742025&site=qq&menu=yes" target="_blank"></a>
 	</div>
 	<div id="goTopBtn">
-		<img width="29" height="65" src="${pageContext.request.contextPath}/static/default/images/goTopBtn.gif">
+		<img width="50" height="50" src="${pageContext.request.contextPath}/static/default/images/goTopBtn.png">
 	</div>
 </div>
 

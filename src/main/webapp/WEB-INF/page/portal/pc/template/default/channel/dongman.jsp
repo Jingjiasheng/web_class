@@ -33,7 +33,7 @@
 	.kenan{width: 160px;height: 50px;background: url(${pageContext.request.contextPath}/static/default/images/kn.png) no-repeat 0 0;position: absolute;right: -20px;bottom: 0;}
 
 	.tab-content div{overflow: visible;}
-	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(http://doc.javaex.cn/demo/images/png24.png) repeat-x;}
+	.tab-content div.javaext{height: 62px;line-height: 24px;overflow: hidden;position: absolute;left: 0;bottom: 0;color: #fff;background: url(https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg) repeat-x;}
 	.javaextp1{font-size: 22px;color: #fff;display: block no-shadow;overflow: hidden;height: 24px;line-height: 24px;padding-left: 15px;}
 	.javaextp2{height: 20px;line-height: 20px;font-size: 16px;font-weight: 100;position: absolute;bottom: 12px;left: 15px;z-index: 2;overflow: hidden;width: 380px;color: #ddd;}
 	.tit-box{height:140px;margin-top: 20px;}
@@ -197,7 +197,7 @@
 					<div class="tab-title">
 						<em>幼儿智力</em>
 						<ul>
-							<a href="${pageContext.request.contextPath}/portal/profile.action?mediaId=17" target="_blank"><em class="kenan"></em></a>
+							<a href="${pageContext.request.contextPath}/portal/profile.action?mediaId=180" target="_blank"><em class="kenan"></em></a>
 						</ul>
 					</div>
 					<div class="tab-content">

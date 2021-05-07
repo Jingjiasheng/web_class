@@ -140,7 +140,7 @@
 						
 						javaex.comment({
 							id : "comment",
-							avatar : "http://doc.javaex.cn/javaex/javaex/pc/images/user.jpg",
+							avatar : "https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg",
 							url : "http://www.javaex.cn/?UID=",
 							commentCount : commentCount,
 							list : list,

@@ -34,7 +34,7 @@ a:visited {color: #666}
 .yaoqishan-header .search .search-keyword{float: left;width: 200px;color: #222;font-size: 12px;overflow: hidden;height: 32px;line-height: 32px;padding: 0 12px;border: 0;-webkit-box-shadow: none;box-shadow: none;background-color: transparent;}
 .yaoqishan-header .search button.search-submit{display: block;position: absolute;right: 0;width: 48px;min-width: 0;cursor: pointer;height: 32px;background: url(${pageContext.request.contextPath}/static/default/images/search-blue.png) center center no-repeat;margin: 0;padding: 0;border: 0;}
 .yaoqishan-header .search .link-ranking{position: absolute;left: 2px;top: 2px;height: 32px;line-height: 32px;background-color: #fff;background-color: hsla(0,0%,100%,.88);border-radius: 4px;width: 68px;-webkit-transition: background-color .2s;-o-transition: .2s background-color;transition: background-color .2s;}
-.yaoqishan-header .search .link-ranking span{padding-left: 26px;color: #f25d8e;display: inline-block;background: url(${pageContext.request.contextPath}/static/default/images/ranking-red.png) 0 center no-repeat;}
+.yaoqishan-header .search .link-ranking span{padding-left: 28px;color: #f25d8e;display: inline-block;background: url(${pageContext.request.contextPath}/static/default/images/ranking-red.png) 0 center no-repeat;}
 .yaoqishan-header .head-banner .head-content .head-logo{position: absolute;width: 220px;height: 105px;left: 24px;top: 55px;background: transparent no-repeat 0;z-index: 10;}
 .im-list-box{display: none;font-size: 12px;color: #222;position: absolute;width: 110px;left: calc(50% - 55px) !important;background: #FFF;-webkit-box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 4px;box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 4px;border-radius: 0 0 4px 4px;overflow: hidden;}
 #im-list-box:hover .im-list-box{display: block;}
@@ -83,7 +83,7 @@ a:visited {color: #666}
 			<!--左侧菜单-->
 			<div class="menu-con fl">
 				<ul>
-					<li class="menu-item home"><a href="${webInfo.domain}" class="title"><i></i>主站</a></li>
+					<li class="menu-item home"><a href="${webInfo.domain}" class="title"><i></i>首页</a></li>
 				</ul>
 			</div>
 			<!--右侧菜单-->

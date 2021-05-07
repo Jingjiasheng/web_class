@@ -83,7 +83,7 @@
 								
 								<ul class="equal-3" style="margin-top: 10px;">
 									<li>地区：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=地区&value=${mediaInfo.dongman_diqu}" target="_blank">${mediaInfo.dongman_diqu}</a></li>
-									<li>年份：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=年份&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
+									<li>上传时间：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=上传时间&value=${mediaInfo.nianfen}" target="_blank">${mediaInfo.nianfen}</a></li>
 									<li>状态：<a href="${pageContext.request.contextPath}/portal/list.action?typeId=1&name=状态&value=${mediaInfo.zhuangtai}" target="_blank">${mediaInfo.zhuangtai}</a></li>
 									<span class="clearfix"></span>
 								</ul>
@@ -209,7 +209,7 @@
 						
 						javaex.comment({
 							id : "comment",
-							avatar : "http://doc.javaex.cn/javaex/javaex/pc/images/user.jpg",
+							avatar : "https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg",
 							url : "http://www.javaex.cn/?UID=",
 							commentCount : commentCount,
 							list : list,

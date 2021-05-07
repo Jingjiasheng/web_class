@@ -37,7 +37,7 @@
 								<a class="user-avatar">
 									<c:choose>
 										<c:when test="${empty userInfo.avatar}">
-											<img src="http://doc.javaex.cn/javaex/javaex/pc/images/user.jpg" />
+											<img src="https://www.keaidian.com/uploads/allimg/181127/co1Q12G34324-0-14.jpg" />
 										</c:when>
 										<c:otherwise>
 											<img src="${userInfo.avatar}" />
